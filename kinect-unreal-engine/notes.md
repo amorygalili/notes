@@ -1,6 +1,11 @@
+## Links
+
 Plugin repo: https://github.com/nama-gatsuo/AzureKinectForUE
 
 Updated plugin repo: https://github.com/cormacmadden/Kinect-Body-Tracking-Unreal-Engine-Plugin
+
+
+## Setting up project
 
 Error when opening a project with the plugin:
 
@@ -18,4 +23,8 @@ How to fix? https://www.reddit.com/r/unrealengine/comments/1acndak/the_following
 
 ![Missing Kinect Image Error](./generate-vs-project-files.png)
 
+
+## View plugin content in content browser:
+
+![Missing Kinect Image Error](./show-plugin-content.png)
 
